@@ -52,6 +52,7 @@ header {
 .menu-list li {
     font-size: 14px;
     margin: 0 15px;
+    padding: 2px 0;
 }
 
 .menu-list li a {
