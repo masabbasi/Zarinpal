@@ -585,8 +585,10 @@ footer {
 
 .social-media div {
     display: flex;
+    justify-content: center;
     margin-top: 20px;
 }
+
 
 .social-media a {
     background-color: #eff4fe;
@@ -596,7 +598,7 @@ footer {
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    margin-left: 15px;
+    margin: 5px;
 }
 
 .bell {
